@@ -8,18 +8,12 @@ A basic calculator built with React that performs arithmetic operations (additio
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies](#technologies)
 - [License](#license)
 
-## Demo
-
-Check out a live demo of the Simple Work Calculator:
-
-[Live Demo Link (if applicable)]
 
 ## Features
 
