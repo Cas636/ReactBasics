@@ -1,7 +1,3 @@
-Claro, aquí tienes un ejemplo de un archivo `README.md` para tu aplicación React:
-
----
-
 # Simple Work Calculator
 
 A basic calculator built with React that performs arithmetic operations (addition, subtraction, multiplication, and division) and includes functionality to reset the input and result.
@@ -77,14 +73,6 @@ The app will be running at `http://localhost:3000`.
 - React
 - JavaScript (ES6+)
 - HTML5 & CSS3
-
-## License
-
-La licencia **CC BY-NC-SA** (Creative Commons Attribution-NonCommercial-ShareAlike) es una licencia que permite a otros distribuir, remezclar, adaptar y construir a partir de tu trabajo, siempre que te den crédito, no lo utilicen con fines comerciales, y licencien sus nuevas creaciones bajo los mismos términos.
-
-Para cambiar la licencia a **CC BY-NC-SA** en el archivo `README.md`, solo debes actualizar la sección de "License" con el texto adecuado. Aquí te muestro cómo hacerlo:
-
----
 
 ## License
 
